@@ -6,7 +6,6 @@
     </div>
 
 
-
     .container {
   border: 5px solid #7b886b;
   margin: 3rem;
@@ -31,5 +30,5 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  gap: 5rem 3rem;
+  
 }
